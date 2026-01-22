@@ -1,0 +1,3 @@
+[submodule "Sample-Server-node-opcua"]
+	path = Sample-Server-node-opcua
+	url = git@github.com:umati/Sample-Server-node-opcua.git
