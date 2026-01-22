@@ -1,7 +1,7 @@
 # Example Usage
 
-
-1. Install nodejs https://nodejs.org/en
+0. Clone this repo (`git clone git@github.com:wlkrm/opc_ua_xml_export_client.git`)
+1. Install nodejs https://nodejs.org/en and python, if you don't already have it
 2. Install requirements (`pip install -r requirements.txt`)
 
 3. Download and start opc ua example server
